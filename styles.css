@@ -1,0 +1,60 @@
+h1{text-align: center;
+  color:rosybrown;
+  text-overflow: ellipsis;
+  font-style:oblique;
+  font-family:'Helvetica Neue';
+  font-size: xx-large;
+}
+
+
+       a:link, a:visited {
+  background-color:gold;
+  color: black;
+  border: 2px solid goldenrod;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+       a:hover, a:active {
+  background-color: goldenrod;
+  color: white;
+}
+body {
+  background:moccasin
+}
+li{
+  display: inline;
+}
+ul{text-align:center;}
+
+
+h2{text-align: center;
+  color:peru;
+  font-size: xx-large;
+  font-style: italic;
+  font-family: Arial, Helvetica, sans-serif;}
+
+  iframe {
+    width: 550px;
+    height: 550px;
+    margin: 0 auto;
+  border: 1px solid gold;
+ 
+}
+
+section{text-align: center;}
+
+div{
+text-align: center;}
+video{border: gold;
+}
+footer {
+  position:initial;
+  left: 10;
+  bottom:20;
+  width: 100%;
+  background-color: lightcoral;
+  color: white;
+  text-align: center;
+}
